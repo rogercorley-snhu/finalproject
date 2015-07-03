@@ -1,0 +1,59 @@
+.post {
+	margin:0 auto;
+	padding:4em 0 8em 0;
+	width:65%;
+}
+
+.post h3 h4 {
+	font-family:'Montserrat';
+	color:#444;
+	text-transform:uppercase;
+	margin:1em 0;
+}
+
+.post h3 {
+	font-size:1.575em;
+	letter-spacing:0.25em;
+	text-align:center;
+	padding:1em 1em .50em 1em;
+}
+
+.sub-head {
+	font-weight: bold;
+	text-decoration: underline;
+	padding: .5em 0;
+	letter-spacing: 1em;
+}
+
+.intro {
+	font-size: 1.175em;
+	width: 85%;
+	text-align: center;
+	margin:1em auto;
+ }
+
+.date {
+	text-align:center;
+	font-style:italic;
+	padding-bottom:1em;
+}
+
+.p-list {
+	margin-bottom: 2em;
+}
+
+.p-list li h5 {
+	font-weight: bold;
+	text-decoration: underline;
+	padding: .5em 0;
+}
+
+.post a {
+	color:#eb4f4f;
+}
+
+.post p {
+	padding-bottom:1em;
+	line-height:1.275em;
+}
+
